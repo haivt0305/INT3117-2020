@@ -1,4 +1,5 @@
 Câu 3:
+```java
 
 public class BoundedQueueTest {
     
@@ -64,3 +65,5 @@ public class BoundedQueueTest {
         assertEquals(instance.toString(), "[3, 1, 2]");
     }
 }
+
+```
